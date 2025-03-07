@@ -1,40 +1,28 @@
-import { useEffect, useState } from "react";
-import axios from "axios";
+import ChatHeader from "./components/ChatHeader";
+import ChatBody from "./components/ChatBody";
+import ChatFooter from "./components/ChatFooter";
+import { useState } from "react";
 
-type DataType = {
-  flavours: string[];
-};
+export interface MessageProp{
+  role: "user" | "bot";
+  message: string;
+}
 
-function App() {
-  const [data, setData] = useState<DataType | null>(null);
+function App(){
+  const [chatHistory, setChatHistory] = useState<MessageProp[]>([{role:"bot",message:"Hey there! How can I help you today?"}]);
 
-  const fetchData = async () => {
-    try {
-      const response = await axios.get("/data/flavours");
-      console.log(response.data);
-      setData(response.data);
-    } catch (error) {
-      console.error("Error fetching data:", error);
-    }
-  };
-
-  useEffect(() => {
-    fetchData();
-  }, []);
-
-  return (
-    <>
-      <h1>Hello World!</h1>
-      {data ? (
-        <ul>
-          {data.flavours.map((flavour, index) => (
-            <li key={index}>{flavour}</li>
-          ))}
-        </ul>
-      ) : (
-        <p>Loading...</p>
-      )}
-    </>
+  return(
+    <div id="chat-bot-container">
+      <div className="chat-header">
+        <ChatHeader/>
+      </div>
+      <div className="chat-body">
+        <ChatBody chatHistory={chatHistory} />
+      </div>
+      <div className="chat-footer">
+        <ChatFooter setChatHistory={setChatHistory} />
+      </div>
+    </div>
   );
 }
 

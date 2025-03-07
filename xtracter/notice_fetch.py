@@ -1,7 +1,7 @@
 from base_code import *
 import time
 
-noticeFileJSON = "./data/notices.json"
+noticeFileJSON = "./data/notices/notices_linkOnly.json"
 try:
     url = "https://jadavpuruniversity.in/notifications/"
     driver.get(url)
@@ -14,14 +14,12 @@ try:
         print(e)
         totalPages = 200
 
-    classNoticeDIV = "elementor-widget-theme-post-title"
-
     # Find all notice blocks
     for i in range(totalPages):
         data = read_json(noticeFileJSON)
         time.sleep(1)
 
-        containers = driver.find_elements(By.CLASS_NAME, classNoticeDIV)
+        containers = driver.find_elements(By.CLASS_NAME, "elementor-widget-theme-post-title")
         for container in containers:
             a_tag = container.find_element(By.TAG_NAME,"a")
             title = a_tag.text.strip()
