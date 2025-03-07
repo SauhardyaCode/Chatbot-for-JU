@@ -1,0 +1,26 @@
+[
+    {
+        "course": "Bachelor of Arts in Sanskrit",
+        "duration": "4 years",
+        "intake": "50",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-sanskrit/"
+    },
+    {
+        "course": "Doctor of Philosophy in Arts(Sanskrit)",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artssanskrit/"
+    },
+    {
+        "course": "Master of Arts in Sanskrit (Day)",
+        "duration": "2 years",
+        "intake": "70 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-sanskrit-day/"
+    },
+    {
+        "course": "Master of Arts in Sanskrit (Evening)",
+        "duration": "2 years",
+        "intake": "50 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-sanskrit-evening/"
+    }
+]

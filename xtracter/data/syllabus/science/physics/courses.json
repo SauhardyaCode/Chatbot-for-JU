@@ -1,0 +1,32 @@
+[
+    {
+        "course": "Bachelor of Science in Physics",
+        "duration": "4 years",
+        "intake": "55 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-physics/"
+    },
+    {
+        "course": "Doctor of Philosophy in Science(Physics)",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencephysics/"
+    },
+    {
+        "course": "Master of Science in Electronics Science",
+        "duration": "2 years",
+        "intake": "12 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-electronics-science/"
+    },
+    {
+        "course": "Master of Science in Physics (Day)",
+        "duration": "2 years",
+        "intake": "36 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-physics-day/"
+    },
+    {
+        "course": "Master of Science in Physics (Evening)",
+        "duration": "3 years",
+        "intake": "36 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-physics-evening/"
+    }
+]

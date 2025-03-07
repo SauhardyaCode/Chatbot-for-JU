@@ -1,0 +1,32 @@
+[
+    {
+        "course": "Bachelor of Engineering in Electrical Engineering",
+        "duration": "4 years",
+        "intake": "109 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-electrical-engineering/"
+    },
+    {
+        "course": "Bachelor of Engineering in Electrical Engineering (Evening)",
+        "duration": "5 years",
+        "intake": "40 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-electrical-engineering-evening/"
+    },
+    {
+        "course": "Master of Engineering in Control System Engineering",
+        "duration": "2 years",
+        "intake": "15",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-control-system-engineering-2/"
+    },
+    {
+        "course": "Master of Engineering in Electrical Engineering",
+        "duration": "2 years",
+        "intake": "30 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-electrical-engineering/"
+    },
+    {
+        "course": "Master of Engineering in Illumination Engineering",
+        "duration": "2 years",
+        "intake": "20 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-illumination-engineering/"
+    }
+]

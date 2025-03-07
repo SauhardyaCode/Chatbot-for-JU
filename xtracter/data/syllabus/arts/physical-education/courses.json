@@ -1,0 +1,20 @@
+[
+    {
+        "course": "Bachelor of Physical Education (B.P.Ed)",
+        "duration": null,
+        "intake": "50 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-physical-education/"
+    },
+    {
+        "course": "Doctor of Philosophy in Arts (Physical Education)",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsphysical-education/"
+    },
+    {
+        "course": "Extra Departmental Courses [Dept. Physical Education]",
+        "duration": null,
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-physical-education/"
+    }
+]

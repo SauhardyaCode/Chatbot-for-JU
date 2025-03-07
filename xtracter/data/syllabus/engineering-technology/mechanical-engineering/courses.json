@@ -1,0 +1,26 @@
+[
+    {
+        "course": "Bachelor of Engineering in Mechanical Engineering",
+        "duration": "4 years",
+        "intake": "141 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-mechanical-engineering/"
+    },
+    {
+        "course": "Bachelor of Engineering in Mechanical Engineering(Evening)",
+        "duration": "5 years",
+        "intake": "58 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-mechanical-engineeringevening/"
+    },
+    {
+        "course": "Master of Engineering in Automobile Engineering",
+        "duration": "2 years",
+        "intake": "25 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-automobile-engineering/"
+    },
+    {
+        "course": "Master of Engineering in Mechanical Engineering",
+        "duration": "2 years",
+        "intake": "34 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-mechanical-engineering/"
+    }
+]

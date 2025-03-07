@@ -1,0 +1,32 @@
+[
+    {
+        "course": "Bachelor of Pharmaceutical Technology",
+        "duration": "4 years",
+        "intake": "65 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmaceutical-technology/"
+    },
+    {
+        "course": "Bachelor of Pharmacy",
+        "duration": "4 years",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmacy/"
+    },
+    {
+        "course": "Bachelor of Pharmacy (Ayurveda)",
+        "duration": "4 years",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmacy-ayurveda/"
+    },
+    {
+        "course": "Master of Pharmaceutical Technology",
+        "duration": "2 years",
+        "intake": "35 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-pharmaceutical-technology/"
+    },
+    {
+        "course": "Master of Pharmacy in Clinical Pharmacy and Pharmacy Practice",
+        "duration": "2 years",
+        "intake": "14 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-pharmacy-in-clinical-pharmacy-and-pharmacy-practice/"
+    }
+]

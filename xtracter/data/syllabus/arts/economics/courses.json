@@ -1,0 +1,26 @@
+[
+    {
+        "course": "Bachelor of Arts in Economics",
+        "duration": "4 years",
+        "intake": "65",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-economics/"
+    },
+    {
+        "course": "Doctor of Philosophy in Arts (Economics)",
+        "duration": null,
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artseconomics/"
+    },
+    {
+        "course": "Extra Departmental Courses [Dept. Economics]",
+        "duration": null,
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-economics/"
+    },
+    {
+        "course": "Master of Arts in Economics",
+        "duration": "2",
+        "intake": "65",
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-economics/"
+    }
+]

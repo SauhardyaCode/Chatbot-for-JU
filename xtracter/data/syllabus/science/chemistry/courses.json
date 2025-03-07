@@ -1,0 +1,26 @@
+[
+    {
+        "course": "Bachelor of Science in Chemistry",
+        "duration": "4 years",
+        "intake": "72 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-chemistry/"
+    },
+    {
+        "course": "Doctor of Philosophy in Science (Chemistry)",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencechemistry/"
+    },
+    {
+        "course": "Master of Science in Chemistry (Day)",
+        "duration": "2 years",
+        "intake": "45 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-chemistry/"
+    },
+    {
+        "course": "Master of Science in Chemistry (Evening)",
+        "duration": "3 years",
+        "intake": "40 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-chemistry-eve/"
+    }
+]

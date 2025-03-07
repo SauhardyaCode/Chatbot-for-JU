@@ -1,0 +1,20 @@
+[
+    {
+        "course": "Bachelor of Science in Geography",
+        "duration": "4 years",
+        "intake": "20",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-geography/"
+    },
+    {
+        "course": "Doctor of Philosophy in Science (Geography)",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencegeography/"
+    },
+    {
+        "course": "Master of Science in Geography",
+        "duration": "2 years",
+        "intake": "20",
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-geography/"
+    }
+]

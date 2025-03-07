@@ -1,0 +1,26 @@
+[
+    {
+        "course": "Bachelor of Science in Mathematics",
+        "duration": "4 years",
+        "intake": "75 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-mathematics/"
+    },
+    {
+        "course": "Doctor of Philosophy in Science(Mathematics)",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencemathematics/"
+    },
+    {
+        "course": "Master of Science in Mathematics (Day)",
+        "duration": "2 years",
+        "intake": "60 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-mathematics-day/"
+    },
+    {
+        "course": "Master of Science in Mathematics (Evening)",
+        "duration": "3 years",
+        "intake": "60 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-mathematics-evening/"
+    }
+]

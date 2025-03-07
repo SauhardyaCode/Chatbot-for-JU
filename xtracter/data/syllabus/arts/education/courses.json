@@ -1,0 +1,20 @@
+[
+    {
+        "course": "Bachelor of Education (B Ed)",
+        "duration": "2 Years",
+        "intake": "100 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-educationb-ed/"
+    },
+    {
+        "course": "Doctor of Philosophy in Arts (Education)",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artseducation/"
+    },
+    {
+        "course": "Master of Arts in Education",
+        "duration": "2 years",
+        "intake": "65 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-education/"
+    }
+]

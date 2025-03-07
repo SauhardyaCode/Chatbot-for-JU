@@ -1,0 +1,20 @@
+[
+    {
+        "course": "Bachelor of Engineering in Power Engineering",
+        "duration": "4 years",
+        "intake": "60 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-power-engineering/"
+    },
+    {
+        "course": "Master of Engineering in Power Engineering",
+        "duration": "2 years",
+        "intake": "18 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-power-engineering/"
+    },
+    {
+        "course": "Ph.D. [Power Engg]",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/ph-d-power-engg/"
+    }
+]

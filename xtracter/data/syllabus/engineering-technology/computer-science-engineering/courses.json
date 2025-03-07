@@ -1,0 +1,32 @@
+[
+    {
+        "course": "Bachelor of Engineering in Computer Science & Engineering",
+        "duration": "4 years",
+        "intake": "86 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-computer-science-engineering/"
+    },
+    {
+        "course": "M.Tech. in Artificial Intelligence and Data Science (3-year Evening Program)",
+        "duration": "3 years",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/m-tech-in-artificial-intelligence-and-data-science-3-year-evening-program/"
+    },
+    {
+        "course": "Master of Computer Application",
+        "duration": "3 years",
+        "intake": "36 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-computer-application/"
+    },
+    {
+        "course": "Master of Engineering in Computer Science & Engineering",
+        "duration": "2 years",
+        "intake": "28 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-computer-science-engineering/"
+    },
+    {
+        "course": "Master of Technology in Computer Technology (6 Sem – Evening)",
+        "duration": "3 years",
+        "intake": "34 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-computer-technology/"
+    }
+]

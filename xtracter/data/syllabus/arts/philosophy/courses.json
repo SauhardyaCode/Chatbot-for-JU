@@ -1,0 +1,26 @@
+[
+    {
+        "course": "Bachelor of Arts in Philosophy",
+        "duration": "4 years",
+        "intake": "50",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-philosophy/"
+    },
+    {
+        "course": "Doctor of Philosophy in Arts (Philosophy)",
+        "duration": null,
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsphilosophy/"
+    },
+    {
+        "course": "Master of Arts in Philosophy (Day)",
+        "duration": "2",
+        "intake": "65",
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-philosophy-day/"
+    },
+    {
+        "course": "Master of Arts in Philosophy (Evening)",
+        "duration": "2",
+        "intake": "50",
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-philosophy-evening/"
+    }
+]

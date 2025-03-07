@@ -1,0 +1,20 @@
+[
+    {
+        "course": "PG Certificate Course in Digital Humanities and Cultural Informatics",
+        "duration": "3 Months",
+        "intake": "30",
+        "link": "https://jadavpuruniversity.in/courses/diploma-course-in-digital-humanities-and-cultural-informatics/"
+    },
+    {
+        "course": "PG Certificate Course in Editing and Publishing in Bengali",
+        "duration": "3 months",
+        "intake": "40",
+        "link": "https://jadavpuruniversity.in/courses/certificate-course-in-editing-and-publishing/"
+    },
+    {
+        "course": "PG Certificate Course in Editing and Publishing in English (Online Course)",
+        "duration": "4 months",
+        "intake": "100",
+        "link": "https://jadavpuruniversity.in/courses/pg-certificate-course-in-editing-and-publishing-in-english-online-course/"
+    }
+]

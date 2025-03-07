@@ -1,0 +1,20 @@
+[
+    {
+        "course": "Bachelor of Engineering in Metallurgical Engineering",
+        "duration": "4 years",
+        "intake": "34 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-metallurgical-engineering/"
+    },
+    {
+        "course": "Master of Engineering in Metallurgical Engineering",
+        "duration": "2 years",
+        "intake": "12 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-metallurgical-engineering/"
+    },
+    {
+        "course": "Master of Technology in Material Engineering",
+        "duration": "2 years",
+        "intake": "20 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-material-engineering/"
+    }
+]

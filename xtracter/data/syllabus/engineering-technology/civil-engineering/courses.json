@@ -1,0 +1,20 @@
+[
+    {
+        "course": "Bachelor of Civil Engineering",
+        "duration": "4 years",
+        "intake": "109 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-civil-engineering/"
+    },
+    {
+        "course": "Bachelor of Engineering in Civil (Evening)",
+        "duration": "5 years",
+        "intake": "40 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-civil-evening/"
+    },
+    {
+        "course": "Master of Engineering in Civil Engineering",
+        "duration": "2 years",
+        "intake": "28 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-civil-engineering/"
+    }
+]

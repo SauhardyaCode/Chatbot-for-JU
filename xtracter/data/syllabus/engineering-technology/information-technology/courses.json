@@ -1,0 +1,20 @@
+[
+    {
+        "course": "Bachelor of Engineering in Information Technology",
+        "duration": "4 years",
+        "intake": "90 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-information-technology/"
+    },
+    {
+        "course": "Master of Engineering in Software Engineering",
+        "duration": "2 years",
+        "intake": "25 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-software-engineering/"
+    },
+    {
+        "course": "Master of Engineering in Software Engineering (Evening)",
+        "duration": "3 Years",
+        "intake": "20",
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-software-engineering-evening/"
+    }
+]

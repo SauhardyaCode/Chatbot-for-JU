@@ -1,0 +1,32 @@
+[
+    {
+        "course": "Bachelor of Arts (Hons) in Bengali",
+        "duration": "4",
+        "intake": "55",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-bengali/"
+    },
+    {
+        "course": "Doctor of Philosophy in Arts (Bengali)",
+        "duration": null,
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsbengali/"
+    },
+    {
+        "course": "Extra Departmental Courses [Dept. Bengali]",
+        "duration": null,
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-bengali/"
+    },
+    {
+        "course": "Master of Arts in Bengali (Day)",
+        "duration": "2",
+        "intake": "65",
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-bengali-day/"
+    },
+    {
+        "course": "Master of Arts in Bengali (Eve)",
+        "duration": "2",
+        "intake": "50",
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-bengali-eve/"
+    }
+]

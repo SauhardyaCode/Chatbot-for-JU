@@ -1,0 +1,26 @@
+[
+    {
+        "course": "Bachelor of Library & Information Science",
+        "duration": "1 year",
+        "intake": "60 students",
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-library-information-science/"
+    },
+    {
+        "course": "Doctor of Philosophy in Arts (Library & Information Science)",
+        "duration": "As per University Rules",
+        "intake": null,
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artslibrary-information-science/"
+    },
+    {
+        "course": "Master of Library & Information Science",
+        "duration": null,
+        "intake": "16 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-library-information-science/"
+    },
+    {
+        "course": "Master of Library & Information Science in Digital Library (Eve)",
+        "duration": null,
+        "intake": "15 students",
+        "link": "https://jadavpuruniversity.in/courses/master-of-library-information-science-in-digital-library/"
+    }
+]
