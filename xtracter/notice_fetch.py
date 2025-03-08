@@ -15,8 +15,11 @@ try:
         totalPages = 200
 
     # Find all notice blocks
+    data = read_json(noticeFileJSON)
+    dataForDumping = []
+    doneWithNewData = False
+
     for i in range(totalPages):
-        data = read_json(noticeFileJSON)
         time.sleep(1)
 
         containers = driver.find_elements(By.CLASS_NAME, "elementor-widget-theme-post-title")
@@ -26,7 +29,13 @@ try:
             link = a_tag.get_attribute("href")
             notice = {"title": title, "link": link}
             if notice not in data:
-                data.append(notice)
+                dataForDumping.append(notice)
+            else:
+                doneWithNewData = True
+                break
+        
+        if doneWithNewData:
+            break
         
         navigationLinks = driver.find_elements(By.CLASS_NAME, "jet-filters-pagination__link")
         for link in navigationLinks:
@@ -35,14 +44,14 @@ try:
         
         time.sleep(3)
         print(f"Code Scraped [Page: {i+1}]")
-
-        with open(noticeFileJSON,"w",encoding="utf-8") as f:
-            json.dump(data, f, indent=4, ensure_ascii=False)
     
+    dataForDumping.extend(data)
     print("Scrapping Successful!")
 
 except Exception as e:
     print("Loading Failed! ",e)
 
 finally:
+    with open(noticeFileJSON,"w",encoding="utf-8") as f:
+        json.dump(dataForDumping, f, indent=4, ensure_ascii=False)
     driver.quit()

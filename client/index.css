@@ -14,7 +14,7 @@ body {
 }
 
 #chat-bot-container {
-    width: 600px;
+    width: 700px;
     background-color: rgb(242, 241, 251);
     border-radius: 20px;
     box-shadow: 0 0 128px 0 rgba(0, 0, 0, 0.1), 0 32px 64px -48px rgba(0, 0, 0, 0.5);
@@ -55,9 +55,24 @@ body {
     font-size: 0.95em;
 }
 
-.chat-body .bot-message .message-text {
+.chat-body .model-message .message-text {
     background-color: #f8c5c5;
     border-radius: 15px 15px 15px 3px;
+}
+
+.chat-body .model-message .message-text code {
+    color: #3810e8;
+    font-size: 1.2em;
+}
+
+.chat-body .model-message .message-text a {
+    color:#35506a;
+    text-decoration: none;
+}
+
+.chat-body .model-message .message-text a:hover {
+    color:#000000;
+    text-decoration:underline;
 }
 
 .chat-body .user-message .message-text {

@@ -5,25 +5,29 @@ import axios from 'axios';
 
 interface Props {
     setChatHistory: React.Dispatch<React.SetStateAction<MessageProp[]>>;
+    setThinking: React.Dispatch<React.SetStateAction<Boolean>>;
 }
 
-function ChatFooter({setChatHistory}:Props) {
+function ChatFooter({setChatHistory, setThinking}:Props) {
     const inputRef = useRef<HTMLInputElement>(null);
 
     const handleFormSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         const query = inputRef.current!.value.trim();
-        if (!query) return;
-
-        try{
-            const response = await axios.post<{reply:string}>("/data/message", {message: query});
-            setChatHistory((prevHistory) => [...prevHistory,{role:"user", message: query},{role:"bot", message: response.data.reply}])
-        } catch (error){
-            console.error("Error Sending Message!", error)
-        }
-
         // ! tells TypeScript => Don't worry I promise it's not null here
         inputRef.current!.value = "";
+        if (!query) return;
+
+        setChatHistory((prevHistory) => [...prevHistory,{role:"user", message: query}])
+        setThinking(true);
+        try{
+            const response = await axios.post<{reply:string}>("/data/message", {message: query});
+            setChatHistory((prevHistory) => [...prevHistory,{role:"model", message: response.data.reply}])
+        } catch (error){
+            console.error("Error Sending Message!", error)
+        } finally {
+            setThinking(false);
+        }
     }
 
     return (
