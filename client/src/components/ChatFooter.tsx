@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import { useRef } from 'react';
 import send_icon from '../pictures/send.png'
 import { MessageProp } from '../App'
 import axios from 'axios';
