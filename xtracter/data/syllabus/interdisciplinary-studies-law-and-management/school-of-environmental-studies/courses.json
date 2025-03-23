@@ -3,12 +3,26 @@
         "course": "Advanced Diploma in Industrial Safety & Environmental Management",
         "duration": null,
         "intake": "30",
-        "link": "https://jadavpuruniversity.in/courses/advanced-diploma-in-industrial-safety-environmental-management/"
+        "link": "https://jadavpuruniversity.in/courses/advanced-diploma-in-industrial-safety-environmental-management/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2023/07/Advanced-Diploma-Industrial-Safety-Environmental-Management.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "M. Tech. (Environmental Science & Technology)",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/m-tech-environmental-science-technology/"
+        "link": "https://jadavpuruniversity.in/courses/m-tech-environmental-science-technology/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/CurriculumSyllabus_M.Tech_.-in-Environmental-Science-Technology.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

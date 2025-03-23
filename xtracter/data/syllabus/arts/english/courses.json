@@ -3,18 +3,34 @@
         "course": "Bachelor of Arts in English",
         "duration": "4 years",
         "intake": "50",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-english/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-english/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/4.Full_Syllabus_English_UG.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (English)",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsenglish/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsenglish/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in English",
         "duration": "2",
         "intake": "60",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-english/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-english/",
+        "syllabus": [
+            {
+                "title": "English-MA",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/ma.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

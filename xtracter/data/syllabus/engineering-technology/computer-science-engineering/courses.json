@@ -3,30 +3,91 @@
         "course": "Bachelor of Engineering in Computer Science & Engineering",
         "duration": "4 years",
         "intake": "86 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-computer-science-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-computer-science-engineering/",
+        "syllabus": [
+            {
+                "title": "BCSE- 2nd Year 1st Semester",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/02/BCSE-2nd-Year-1st-Semester.pdf"
+            },
+            {
+                "title": "BCSE- 3rd Year 1st Semester",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/02/BCSE-3rd-Year-1st-Semester.pdf"
+            },
+            {
+                "title": "BCSE- 4th Year 1st Semester & 2nd Semester",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/02/BCSE-4th-Year-1st-Semester.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "M.Tech. in Artificial Intelligence and Data Science (3-year Evening Program)",
         "duration": "3 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/m-tech-in-artificial-intelligence-and-data-science-3-year-evening-program/"
+        "link": "https://jadavpuruniversity.in/courses/m-tech-in-artificial-intelligence-and-data-science-3-year-evening-program/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/MTCTDetailedSyllabusAI-and-DSFinalFinal_Evening.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Computer Application",
         "duration": "3 years",
         "intake": "36 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-computer-application/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-computer-application/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/02/Syllabus-MCA2YearProgram-1st-4thSem.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Curriculum – MCA (2 Year)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/02/Curriculum-MCA2Year.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Engineering in Computer Science & Engineering",
         "duration": "2 years",
         "intake": "28 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-computer-science-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-computer-science-engineering/",
+        "syllabus": [
+            {
+                "title": "MCSE (Internet of Things)",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/MCSEDetailed-SyllabusIOTFinalFinal.pdf"
+            },
+            {
+                "title": "MCSE (Artificial Intelligence and Data Science)",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/MCSEDetailed-SyllabusAIandDSFinalFinal.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "MCSE (Internet of Things)",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/New-MCSE-curriculumIOT-forWEBsite.pdf"
+            },
+            {
+                "title": "MCSE (Artificial Intelligence and Data Science)",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/New-MCSE-curriculumAIandDS-forWEBsite.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Technology in Computer Technology (6 Sem – Evening)",
         "duration": "3 years",
         "intake": "34 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-computer-technology/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-computer-technology/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2023/07/Master-of-Technology-in-Computer-Technology-6-sem-Eve.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

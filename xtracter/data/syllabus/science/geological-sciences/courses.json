@@ -3,18 +3,38 @@
         "course": "Bachelor of Geological Science",
         "duration": "4 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-geological-sciences/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-geological-sciences/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/2.Geol_._Scs._Syllabus_Final-Full.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Geological Science",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencegeological-sciences/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencegeological-sciences/",
+        "syllabus": [
+            {
+                "title": "Syllabus of course work of phd",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/Syllabus-course-work-phd-GeologySc.pdf"
+            },
+            {
+                "title": "Research oriented course for Phd",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/Research-course-Phd-Geological-Sciences.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Applied Geology",
         "duration": "2 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-applied-geology/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-applied-geology/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

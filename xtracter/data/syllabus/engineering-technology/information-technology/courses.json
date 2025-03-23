@@ -3,18 +3,48 @@
         "course": "Bachelor of Engineering in Information Technology",
         "duration": "4 years",
         "intake": "90 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-information-technology/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-information-technology/",
+        "syllabus": [
+            {
+                "title": "New Syllabus",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/Syllabus-BE-IT-NEW.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "New Curriculum",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/Curriculum-BE-IT-NEW.pdf"
+            },
+            {
+                "title": "New Curriculum (2nd to 4th Year)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/CURRICULUM-2ND-4TH-YEAR-UG.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Engineering in Software Engineering",
         "duration": "2 years",
         "intake": "25 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-software-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-software-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/Syllabus-ME-Software-Engineering.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/Curriculum-ME-Software-Engineering.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Engineering in Software Engineering (Evening)",
         "duration": "3 Years",
         "intake": "20",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-software-engineering-evening/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-software-engineering-evening/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

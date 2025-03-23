@@ -3,24 +3,64 @@
         "course": "Bachelor of Arts in Economics",
         "duration": "4 years",
         "intake": "65",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-economics/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-economics/",
+        "syllabus": [
+            {
+                "title": "4-year UG Curriculum in Economics under NEP Final",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/3.A.4-year-UG-Curriculum-in-Economics-under-NEP_Final-_15.05.2024.pdf"
+            },
+            {
+                "title": "Syllabus Economics Minor (Mathematics)",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/3.B.Syllabus_Economics_MinorMaths.pdf"
+            },
+            {
+                "title": "Full Syllabus",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/Economics-syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (Economics)",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artseconomics/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artseconomics/",
+        "syllabus": [
+            {
+                "title": "Economics-syllabus",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/Economics-syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Extra Departmental Courses [Dept. Economics]",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-economics/"
+        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-economics/",
+        "syllabus": [
+            {
+                "title": "U.G. Minor Syllabus of Economics (For the NEP students of Science Faculty)",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/11.SCIENCE_MINORS-Economics.pdf"
+            },
+            {
+                "title": "Extra Departmental Courses [Dept. Economics]",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/ED-Economics.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Economics",
         "duration": "2",
         "intake": "65",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-economics/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-economics/",
+        "syllabus": [
+            {
+                "title": "Economics-syllabus",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/Economics-syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

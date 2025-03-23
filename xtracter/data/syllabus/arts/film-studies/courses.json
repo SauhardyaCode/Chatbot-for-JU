@@ -3,18 +3,47 @@
         "course": "BA Extra Departmental Courses [Dept. Film Studies]",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/ba-extra-departmental-courses-dept-film-studies/"
+        "link": "https://jadavpuruniversity.in/courses/ba-extra-departmental-courses-dept-film-studies/",
+        "syllabus": [
+            {
+                "title": "Syllabus for UG Multidisciplinary Courses",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/10.A.Film-Studies_UG-MDC-syllabus_final.pdf"
+            },
+            {
+                "title": "Syllabus for UG Minor Courses",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/10.B.Film-Studies_UG-Minor-syllabus_final.pdf"
+            },
+            {
+                "title": "BA (Extra-Departmental) Syllabus With Reading List",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/ba-1.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (Film Studies)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsfilm-studies/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsfilm-studies/",
+        "syllabus": [
+            {
+                "title": "Phd – Film Studies",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/phd.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Film Studies",
         "duration": "2 years",
         "intake": "35 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-film-studies/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-film-studies/",
+        "syllabus": [
+            {
+                "title": "MA – Film Studies",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/ma-1.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

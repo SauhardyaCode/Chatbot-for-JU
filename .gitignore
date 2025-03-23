@@ -1,3 +1,4 @@
 .env
 venv/
 server/test*.py
+*log.txt

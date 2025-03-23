@@ -16,10 +16,10 @@ def clean(string):
 
 try:
     for faculty in faculties:
-        time.sleep(3)
         url = f"https://jadavpuruniversity.in/department/faculty-of-{faculty}"
         driver.get(url)
         print("Loading Page...")
+        time.sleep(3)
 
         department = driver.find_element(By.CLASS_NAME, departmentWrapDIV)
         subjects = department.find_elements(By.XPATH, f".//div[contains(@class, '{subjectCardWrapDIV}')]")
@@ -42,8 +42,6 @@ try:
 
             with open(f"{path}/about.json", "w", encoding="utf-8") as f:
                 json.dump({'name':name,'description':details}, f, indent=4, ensure_ascii=False)
-            if os.path.exists(f"{path}/x.json"):
-                os.remove(f"{path}/x.json")
             
             time.sleep(2)
             course_url = linkToSite

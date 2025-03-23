@@ -1,6 +1,6 @@
 import BotIcon from './BotIcon';
 import { MessageProp } from '../App';
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 
 interface Props {
     chatHistory: MessageProp[];
@@ -9,8 +9,13 @@ interface Props {
 }
 
 function ChatBody({ chatHistory, thinking, starting }: Props) {
+    const lastMsgRef = useRef<HTMLDivElement>(null)
+
     useEffect(() => {
         console.log("Chat History:", chatHistory);
+        if (lastMsgRef.current){
+            lastMsgRef.current.scrollIntoView({behavior: "smooth"})
+        }
     }, [chatHistory]);
 
     return (
@@ -20,7 +25,7 @@ function ChatBody({ chatHistory, thinking, starting }: Props) {
                     return (
                         <div key={index} className={`message ${msg.role}-message`}>
                             {msg.role == "model" && <>
-                                <BotIcon size={50} /><p dangerouslySetInnerHTML={{ __html: msg.message }} className="message-text"></p>
+                                <BotIcon size={55} /><p dangerouslySetInnerHTML={{ __html: msg.message }} className="message-text"></p>
                             </>}
                             {msg.role == "user" && <p className="message-text">{msg.message}</p>}
 
@@ -36,6 +41,7 @@ function ChatBody({ chatHistory, thinking, starting }: Props) {
                     {starting && <p>Starting...</p>}
                 </div>
             }
+            <div ref={lastMsgRef} className="scroll-ref"></div>
         </>
     );
 }

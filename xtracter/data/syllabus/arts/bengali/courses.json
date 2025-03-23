@@ -3,30 +3,63 @@
         "course": "Bachelor of Arts (Hons) in Bengali",
         "duration": "4",
         "intake": "55",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-bengali/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-bengali/",
+        "syllabus": [
+            {
+                "title": "NEP Syllabus in Brief",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/1.A.New-Syllabus-in-brief_Bengali.pdf"
+            },
+            {
+                "title": "Syllabus for 4 year Undergraduate Course",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/1.B.Bengali-Syllabus-FULL-FINAL.pdf"
+            },
+            {
+                "title": "Syllabus for 3 year Undergraduate Course",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/UG-Syllabus_Bengali_JU.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (Bengali)",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsbengali/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsbengali/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Extra Departmental Courses [Dept. Bengali]",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-bengali/"
+        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-bengali/",
+        "syllabus": [
+            {
+                "title": "Bengali- Extra Departmental Course",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/Bengali-ED-Course.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Bengali (Day)",
         "duration": "2",
         "intake": "65",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-bengali-day/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-bengali-day/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/PG-Syllabus_Bengali_JU.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Bengali (Eve)",
         "duration": "2",
         "intake": "50",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-bengali-eve/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-bengali-eve/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

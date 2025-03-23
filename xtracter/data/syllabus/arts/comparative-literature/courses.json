@@ -3,24 +3,56 @@
         "course": "Bachelor of Arts in Comparative Literature",
         "duration": "4 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-comparative-literature/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-comparative-literature/",
+        "syllabus": [
+            {
+                "title": "Four Year Undergraduate Programme under NEP 2020",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/2.Final-JUCL-BA-NEP-Syllabus_27-February-2024.pdf"
+            },
+            {
+                "title": "Comparative Literature UG All Courses as per UGC-CBCS – FINAL",
+                "link": "https://jadavpuruniversity.in/storage/2022/04/Comparative-Literature-UG-All-Courses-as-per-UGC-CBCS-FINAL.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (Comparative Literature)",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artscomparative-literature/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artscomparative-literature/",
+        "syllabus": [
+            {
+                "title": "Comparative Literature JU, MPhil & PhD Syllabi",
+                "link": "https://jadavpuruniversity.in/storage/2022/04/Comparative-Literature-JU-MPhil-PhD-Syllabi.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Extra Departmental Courses [Dept. Comparative Literature]",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-comparative-literature/"
+        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-comparative-literature/",
+        "syllabus": [
+            {
+                "title": "Extra Departmental Course [Dept. Comparative Literature]",
+                "link": "https://jadavpuruniversity.in/storage/2022/11/ED-CompLit.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Comparative Literature",
         "duration": "2 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-comparative-literature/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-comparative-literature/",
+        "syllabus": [
+            {
+                "title": "MA – Comparative Literature",
+                "link": "https://jadavpuruniversity.in/storage/2022/04/1462953659-1.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

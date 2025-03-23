@@ -3,18 +3,54 @@
         "course": "Bachelor of Engineering in Chemical Engineering",
         "duration": "4 years",
         "intake": "82 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-chemical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-chemical-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/UG-Syllabus-NAAC_26072024.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/1625642242-1.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Bioprocessing Engineering",
         "duration": "2 years",
         "intake": "10 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-bioprocessing-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-bioprocessing-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/PG-Bioprocess-Syllabus_2024_final.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/MBPE-Curriculum.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Engineering in Chemical Engineering",
         "duration": "2 years",
         "intake": "38 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-chemical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-chemical-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/PG-Chemical-Syllabus-2024-final.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/MChE-Curriculum.pdf"
+            }
+        ]
     }
 ]

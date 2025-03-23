@@ -3,12 +3,26 @@
         "course": "Master of Engineering (ME) in Water Resources & Hydraulic Engineering (Four Semesters)",
         "duration": "2 years",
         "intake": "18 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-water-resources-hydraulic-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-water-resources-hydraulic-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/4-Semester-MEWRE-Full-Syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Engineering (ME) in Water Resources & Hydraulic Engineering (Six Semesters)",
         "duration": "3 years",
         "intake": "18 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-water-resources-hydraulic-engineering-eve/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-water-resources-hydraulic-engineering-eve/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/6-Semester-MEWRE-Full-Syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

@@ -3,24 +3,56 @@
         "course": "Bachelor of Arts in Sanskrit",
         "duration": "4 years",
         "intake": "50",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-sanskrit/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-sanskrit/",
+        "syllabus": [
+            {
+                "title": "4-YEAR BACHELOR’S DEGREE (HONOURS) AND 4-YEAR BACHELOR’S DEGREE (HONOURS WITH RESEARCH)",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/NEP-SANSKRIT_JU-UG-SYLLABUS-WITH-CO-PO-PSO-AND-RECMD-BOOKS.pdf"
+            },
+            {
+                "title": "Syllabi of B.A. (Hons.) Sanskrit including B.A. (GE) COURSES (Course Code: CBCS/SAN/UG/Core/1.1)",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/SANSKRIT-BA-SYLLABUS-REVISED-AS-PER-17-05-22-BOS.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "CURRICULUM AND CREDIT FRAMEWORK FOR UNDERGRADUATE PROGRAMMES [AS PER NEP 2020]",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/8.NEP-SANSKRIT_JU-UG-SYLLABUS.pdf"
+            }
+        ]
     },
     {
         "course": "Doctor of Philosophy in Arts(Sanskrit)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artssanskrit/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artssanskrit/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Sanskrit (Day)",
         "duration": "2 years",
         "intake": "70 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-sanskrit-day/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-sanskrit-day/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/WITH-COs_SANSKRIT-MA-DAY-SYLLABUS-REVISED-AS-PER-BOS-17-05-2022.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Sanskrit (Evening)",
         "duration": "2 years",
         "intake": "50 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-sanskrit-evening/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-sanskrit-evening/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/WITH-COs_SANSKRIT-MA-EVE-SYLLABUS-REVISED-AS-PER-BOS-17-05-2022.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

@@ -6,7 +6,7 @@ interface Props{
 
 function BotIcon({size=50}: Props) {
   return (
-    <div><img className='bot-image' src={logo} alt="bot" width={size} /></div>
+    <div className='bot-image-wrapper'><img className='bot-image' src={logo} alt="bot" width={size} /></div>
   )
 }
 

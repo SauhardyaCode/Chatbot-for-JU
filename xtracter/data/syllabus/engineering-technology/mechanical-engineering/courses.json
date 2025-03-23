@@ -3,24 +3,52 @@
         "course": "Bachelor of Engineering in Mechanical Engineering",
         "duration": "4 years",
         "intake": "141 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-mechanical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-mechanical-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/BME-Programme.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Bachelor of Engineering in Mechanical Engineering(Evening)",
         "duration": "5 years",
         "intake": "58 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-mechanical-engineeringevening/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-mechanical-engineeringevening/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1333530609-1.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Engineering in Automobile Engineering",
         "duration": "2 years",
         "intake": "25 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-automobile-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-automobile-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/MAutoE-Programme.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Engineering in Mechanical Engineering",
         "duration": "2 years",
         "intake": "34 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-mechanical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-mechanical-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/07/MME-Programme.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

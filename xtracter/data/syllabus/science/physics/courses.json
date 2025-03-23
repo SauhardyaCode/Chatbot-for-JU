@@ -3,30 +3,68 @@
         "course": "Bachelor of Science in Physics",
         "duration": "4 years",
         "intake": "55 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-physics/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-physics/",
+        "syllabus": [
+            {
+                "title": "4-Year Bachelor’s Degree (Honours) in Physics Syllabus (NEP 2020)",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/5.Physics-Syllabus_JU-2023_NEP-Final.pdf"
+            },
+            {
+                "title": "B.Sc. Physics (CBCS)",
+                "link": "https://jadavpuruniversity.in/storage/2024/01/BSc_Physics_syllabus_CBCS.pdf"
+            },
+            {
+                "title": "B.Sc Generic Elective Papers [GE] (CBCS)",
+                "link": "https://jadavpuruniversity.in/storage/2024/01/BSc_Physics_GE_syllabus_CBCS.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Science(Physics)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencephysics/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencephysics/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Electronics Science",
         "duration": "2 years",
         "intake": "12 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-electronics-science/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-electronics-science/",
+        "syllabus": [
+            {
+                "title": "M.Sc. Electronics Science",
+                "link": "https://jadavpuruniversity.in/storage/2024/01/CBCS-Syllabus-MSc-Electronic-Sciences.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Physics (Day)",
         "duration": "2 years",
         "intake": "36 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-physics-day/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-physics-day/",
+        "syllabus": [
+            {
+                "title": "M.Sc. Physics (Day)",
+                "link": "https://jadavpuruniversity.in/storage/2024/01/MSc_Physics_Syllabus_CBCS.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Physics (Evening)",
         "duration": "3 years",
         "intake": "36 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-physics-evening/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-physics-evening/",
+        "syllabus": [
+            {
+                "title": "M.Sc. Physics (Evening)",
+                "link": "https://jadavpuruniversity.in/storage/2024/01/MSc_Physics_Syllabus_CBCS.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

@@ -3,6 +3,17 @@
         "course": "Extra Departmental Courses [School of Woman Studies]",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-school-of-woman-studies/"
+        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-school-of-woman-studies/",
+        "syllabus": [
+            {
+                "title": "MDC Course Women Studies",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/12.A.MDC-Course-Women-Studies.pdf"
+            },
+            {
+                "title": "MINOR Course Women Studies",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/12.B.MINOR-courses-women-studies.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

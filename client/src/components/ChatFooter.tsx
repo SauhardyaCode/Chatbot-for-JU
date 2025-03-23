@@ -1,4 +1,4 @@
-import { useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import send_icon from '../pictures/send.png'
 import { MessageProp } from '../App'
 import axios from 'axios';
@@ -8,7 +8,7 @@ interface Props {
     setThinking: React.Dispatch<React.SetStateAction<Boolean>>;
 }
 
-function ChatFooter({setChatHistory, setThinking}:Props) {
+function ChatFooter({ setChatHistory, setThinking }: Props) {
     const inputRef = useRef<HTMLInputElement>(null);
 
     const handleFormSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -18,12 +18,12 @@ function ChatFooter({setChatHistory, setThinking}:Props) {
         inputRef.current!.value = "";
         if (!query) return;
 
-        setChatHistory((prevHistory) => [...prevHistory,{role:"user", message: query}])
+        setChatHistory((prevHistory) => [...prevHistory, { role: "user", message: query }])
         setThinking(true);
-        try{
-            const response = await axios.post<{reply:string}>("/data/message", {message: query});
-            setChatHistory((prevHistory) => [...prevHistory,{role:"model", message: response.data.reply}])
-        } catch (error){
+        try {
+            const response = await axios.post<{ reply: string }>("/data/message", { message: query });
+            setChatHistory((prevHistory) => [...prevHistory, { role: "model", message: response.data.reply }])
+        } catch (error) {
             console.error("Error Sending Message!", error)
         } finally {
             setThinking(false);
@@ -33,7 +33,7 @@ function ChatFooter({setChatHistory, setThinking}:Props) {
     return (
         <>
             <form action="#" className="chat-form" onSubmit={handleFormSubmit}>
-                <input ref={inputRef} type="text" id="message-input" placeholder="Ask Anything" autoComplete='off' required />
+                <input ref={inputRef} type="text" id="message-input" placeholder="Ask Anything" autoComplete='off' autoFocus required />
                 <button id='send-message' type='submit'><img src={send_icon} alt="send" width="20em" /></button>
             </form>
         </>

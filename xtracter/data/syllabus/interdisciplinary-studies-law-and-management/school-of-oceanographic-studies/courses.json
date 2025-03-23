@@ -3,12 +3,21 @@
         "course": "IDC/MDC – School of Oceanographic Studies",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/idc-mdc-school-of-oceanographic-studies/"
+        "link": "https://jadavpuruniversity.in/courses/idc-mdc-school-of-oceanographic-studies/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/10.School-of-Oceanographic-Studies-IDC-Course-Syllabus-with-CO.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Philosophy in Oceanography and Coastal Management",
         "duration": "2 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/master-of-philosophy-in-oceanography-and-coastal-management/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-philosophy-in-oceanography-and-coastal-management/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

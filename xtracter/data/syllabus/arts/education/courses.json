@@ -3,18 +3,39 @@
         "course": "Bachelor of Education (B Ed)",
         "duration": "2 Years",
         "intake": "100 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-educationb-ed/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-educationb-ed/",
+        "syllabus": [
+            {
+                "title": "B.Ed",
+                "link": "https://jadavpuruniversity.in/storage/2022/03/B.Ed_.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (Education)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artseducation/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artseducation/",
+        "syllabus": [
+            {
+                "title": "PhD (Education)Coursework",
+                "link": "https://jadavpuruniversity.in/storage/2022/03/PhD-EducationCoursework.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Education",
         "duration": "2 years",
         "intake": "65 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-education/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-education/",
+        "syllabus": [
+            {
+                "title": "M.A in Education (Revised Syllabus)",
+                "link": "https://jadavpuruniversity.in/storage/2022/03/M.A-in-Education-Syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

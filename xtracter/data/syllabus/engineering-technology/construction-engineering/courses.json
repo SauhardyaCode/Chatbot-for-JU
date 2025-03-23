@@ -3,12 +3,31 @@
         "course": "Bachelor of Engineering in Construction Engineering",
         "duration": "4 years",
         "intake": "39 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-construction-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-construction-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/Construction-new-UG-syllabus.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/Construction-new-curriculum.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Construction Engineering ( 6 Semester, Evening)",
         "duration": "3 Years",
         "intake": "18",
-        "link": "https://jadavpuruniversity.in/courses/master-of-construction-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-construction-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/03/Revised-ME-Syllabus_June24_feb25.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

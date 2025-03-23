@@ -3,12 +3,21 @@
         "course": "Extra Departmental Courses [School of Languages and Linguistics]",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/ug-school-of-languages-and-linguistics/"
+        "link": "https://jadavpuruniversity.in/courses/ug-school-of-languages-and-linguistics/",
+        "syllabus": [
+            {
+                "title": "UG Minor Courses",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/14.SLL-UG-Minor-AECC-Courses-NEP.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "MA in Linguistics",
         "duration": "2 year",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/ma-in-linguistics/"
+        "link": "https://jadavpuruniversity.in/courses/ma-in-linguistics/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

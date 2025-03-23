@@ -3,24 +3,46 @@
         "course": "Bachelor of Science in Mathematics",
         "duration": "4 years",
         "intake": "75 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-mathematics/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-mathematics/",
+        "syllabus": [
+            {
+                "title": "B.Sc. (H) in Mathematics (CBCS)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2024/09/math-CBCS-B.Sc_.-Syllabus-Final.pdf"
+            },
+            {
+                "title": "B.Sc. in Mathematics (NEP)",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/3.NEP-Bsc-4-years-Final-Syllabus-Mathematics.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Science(Mathematics)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencemathematics/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencemathematics/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Mathematics (Day)",
         "duration": "2 years",
         "intake": "60 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-mathematics-day/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-mathematics-day/",
+        "syllabus": [
+            {
+                "title": "M.SC. in Mathematics (CBCS)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2024/09/CBCS-M.Sc-Syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Mathematics (Evening)",
         "duration": "3 years",
         "intake": "60 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-mathematics-evening/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-mathematics-evening/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

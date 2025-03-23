@@ -3,12 +3,31 @@
         "course": "Bachelor of Engineering in Production Engineering",
         "duration": "4 years",
         "intake": "44 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-production-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-production-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1333539602-1.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Engineering in Production Engineering",
         "duration": "2 years",
         "intake": "20 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-production-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-production-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1269516101-2.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1269516101-1.pdf"
+            }
+        ]
     }
 ]

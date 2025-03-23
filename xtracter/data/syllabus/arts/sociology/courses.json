@@ -3,18 +3,44 @@
         "course": "BA Arts (H) Sociology",
         "duration": "4 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/ug-syllabus-under-cbcs/"
+        "link": "https://jadavpuruniversity.in/courses/ug-syllabus-under-cbcs/",
+        "syllabus": [
+            {
+                "title": "BACHELOR OF ARTS (HONOURS) SOCIOLOGY UNDER CBCS",
+                "link": "https://jadavpuruniversity.in/storage/2024/08/CBCS-final-syllabus-pdf.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "CURRICULUM AND CREDIT FRAMEWORK FOR UNDERGRADUATE PROGRAMMES [AS PER NEP 2020]",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/9.-Sociology-NEP-Full-Syllabus.pdf"
+            }
+        ]
     },
     {
         "course": "Doctor of Philosophy in Arts (Sociology)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artssociology/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artssociology/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/08/Ph-D-Course-work-in-Sociology.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Sociology",
         "duration": "2 years",
         "intake": "40 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-sociology/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-sociology/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/08/REVISED-PG-SYLLABUS-FINAL-edd.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

@@ -3,18 +3,52 @@
         "course": "Bachelor of Engineering in Power Engineering",
         "duration": "4 years",
         "intake": "60 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-power-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-power-engineering/",
+        "syllabus": [
+            {
+                "title": "Syllabus of 2nd to 4th Year UG",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/PE-UG-syllabus-2nd-4th.pdf"
+            },
+            {
+                "title": "Syllabus (Old)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/PESyllabus.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Curriculum of 2nd – 4th year UG",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/PE-UG-Curriculum-2nd-4th.pdf"
+            },
+            {
+                "title": "Curriculum (Old)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/03/PECurriculum.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Engineering in Power Engineering",
         "duration": "2 years",
         "intake": "18 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-power-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-power-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/04/PG-Syllabus-Power-Engg-Dept-.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/04/PG-Curriculum-Power-Engg-Dept.pdf"
+            }
+        ]
     },
     {
         "course": "Ph.D. [Power Engg]",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/ph-d-power-engg/"
+        "link": "https://jadavpuruniversity.in/courses/ph-d-power-engg/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

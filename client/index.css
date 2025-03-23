@@ -60,8 +60,22 @@ body {
     border-radius: 15px 15px 15px 3px;
 }
 
+.chat-body .model-message {
+    display: flex;
+    flex-direction: row;
+}
+
+.chat-body .model-message .bot-image-wrapper {
+    align-self: flex-end;
+    bottom: 0;
+}
+
+.chat-body .model-message .bot-image {
+    margin-bottom: -1px;
+}
+
 .chat-body .model-message .message-text code {
-    color: #3810e8;
+    color: #1d048f;
     font-size: 1.2em;
 }
 
@@ -112,9 +126,14 @@ body {
     padding: 0px 20px 0px 0px;
 }
 
+.chat-footer .chat-form:hover {
+    outline: 4px solid #e7a2ab;
+}
+
 .chat-footer .chat-form:focus-within {
     outline: 4px solid #ff7d8e;
 }
+
 
 .chat-form #send-message {
     background: #d6d1d1;

@@ -3,24 +3,47 @@
         "course": "Bachelor of Engineering in Electronics & Tele-communication Engineering",
         "duration": "4 years",
         "intake": "90 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-electronics-telecommunication-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-electronics-telecommunication-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/04/ETCE_New_Syllabus_final.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/04/ETCE_New_Curriculum_final.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Engineering in Electronics & Tele-communication Engineering",
         "duration": "2 years",
         "intake": "28 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-electronics-tele-communication-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-electronics-tele-communication-engineering/",
+        "syllabus": [
+            {
+                "title": "New PG Curriculum and Syllabus (from 2024-25 session)",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/METCE_Curriculum_Annotated_Syllabus_11_02.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Technology in VLSI Design and Microelectronics Technology",
         "duration": "3 years",
         "intake": "18 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-vlsi-design-and-microelectronics-technology/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-vlsi-design-and-microelectronics-technology/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "MTech in Intelligent Automation and Robotics(Eve)",
         "duration": "3 years",
         "intake": "18 students",
-        "link": "https://jadavpuruniversity.in/courses/mtech-in-intelligent-automation-and-roboticseve/"
+        "link": "https://jadavpuruniversity.in/courses/mtech-in-intelligent-automation-and-roboticseve/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

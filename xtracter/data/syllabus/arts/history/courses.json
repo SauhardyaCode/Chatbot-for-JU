@@ -3,24 +3,51 @@
         "course": "Bachelor of Arts in History",
         "duration": "4 years",
         "intake": "50",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-history/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-history/",
+        "syllabus": [
+            {
+                "title": "Course Structure for Four-Year Undergraduate Programme under NEP 2020",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/5.NEP_UG__History_Detailed_Syllabus_Final.pdf"
+            },
+            {
+                "title": "B.A (Honours) Courses",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/BA-history.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (History)",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artshistory/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artshistory/",
+        "syllabus": [
+            {
+                "title": "Phd – History",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/Mphil-Phd-history.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in History (Day)",
         "duration": "2",
         "intake": "65",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-history/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-history/",
+        "syllabus": [
+            {
+                "title": "MA-History",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/MA-history.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in History (Eve)",
         "duration": "2",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-history-eve/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-history-eve/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

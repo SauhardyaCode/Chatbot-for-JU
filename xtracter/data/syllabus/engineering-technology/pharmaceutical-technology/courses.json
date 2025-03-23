@@ -3,30 +3,55 @@
         "course": "Bachelor of Pharmaceutical Technology",
         "duration": "4 years",
         "intake": "65 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmaceutical-technology/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmaceutical-technology/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1333538140-1.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Bachelor of Pharmacy",
         "duration": "4 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmacy/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmacy/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Bachelor of Pharmacy (Ayurveda)",
         "duration": "4 years",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmacy-ayurveda/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-pharmacy-ayurveda/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Master of Pharmaceutical Technology",
         "duration": "2 years",
         "intake": "35 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-pharmaceutical-technology/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-pharmaceutical-technology/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1269516436-2.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1269516436-1.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Pharmacy in Clinical Pharmacy and Pharmacy Practice",
         "duration": "2 years",
         "intake": "14 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-pharmacy-in-clinical-pharmacy-and-pharmacy-practice/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-pharmacy-in-clinical-pharmacy-and-pharmacy-practice/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

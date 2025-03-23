@@ -3,12 +3,31 @@
         "course": "Bachelor of Engineering in Printing Engineering",
         "duration": "4 years",
         "intake": "37 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-printing-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-printing-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/UG_PRINTING_FINAL_TILL-2024.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "M.Tech in Printing Engineering and Graphic Communication",
         "duration": "2 years",
         "intake": "10 students",
-        "link": "https://jadavpuruniversity.in/courses/m-e-in-printing-engineering-graphic-communication/"
+        "link": "https://jadavpuruniversity.in/courses/m-e-in-printing-engineering-graphic-communication/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/Syllabus_PrintEngg_PG_2024_WebFile.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/Curriculum_PrintEngg_PG2024_WebFile.pdf"
+            }
+        ]
     }
 ]

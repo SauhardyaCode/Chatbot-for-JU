@@ -3,12 +3,17 @@
         "course": "Bachelor of Architecture",
         "duration": "5 years",
         "intake": "40",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-architecture/"
-    },
-    {
-        "course": "Master of Architecture",
-        "duration": "2 years",
-        "intake": "17",
-        "link": "https://jadavpuruniversity.in/courses/master-of-architecture/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-architecture/",
+        "syllabus": [
+            {
+                "title": "New Syllabus",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2024/09/ARCHITECTURE_UG_CuriculumSyllabi_1ST_YEAR_2024-25_JU.pdf"
+            },
+            {
+                "title": "Old Syllabus",
+                "link": "https://jadavpuruniversity.in/storage/2023/03/BArch_UG-Syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

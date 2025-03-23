@@ -3,12 +3,52 @@
         "course": "Bachelor of Engineering in Instrumentation & Electronics Engineering",
         "duration": "4 years",
         "intake": "60 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-instrumentation-electronics-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-instrumentation-electronics-engineering/",
+        "syllabus": [
+            {
+                "title": "Syllabus valid for 2022-26 batch onwards",
+                "link": "https://jadavpuruniversity.in/storage/2023/11/1694153025-1.pdf"
+            },
+            {
+                "title": "Syllabus valid for 2020-24 and 2021-25 batches",
+                "link": "https://jadavpuruniversity.in/storage/2023/11/1694153193-1.pdf"
+            },
+            {
+                "title": "Syllabus valid for 2018-22 and 2019-23 batches",
+                "link": "https://jadavpuruniversity.in/storage/2023/09/UG-IEE-Syllabus_valid-for-2018-22-and-2019-23-batches.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Curriculum valid for 2022-26 batch onwards",
+                "link": "https://jadavpuruniversity.in/storage/2023/11/1694153390-1.pdf"
+            },
+            {
+                "title": "Curriculum valid for 2020-24 and 2021-25 batches",
+                "link": "https://jadavpuruniversity.in/storage/2023/11/1694153484-1.pdf"
+            },
+            {
+                "title": "Curriculum valid for 2018-22 and 2019-23 batches",
+                "link": "https://jadavpuruniversity.in/storage/2023/09/UG-IEE-Curriculum_valid-for-2018-22-and-2019-23-batches.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Technology in Instrumentation & Electronics Engineering",
         "duration": "2 years",
         "intake": "10 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-instrumentation-electronics-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-instrumentation-electronics-engineering/",
+        "syllabus": [
+            {
+                "title": "PG IEE Syllabus valid for 2020-22 batch onwards",
+                "link": "https://jadavpuruniversity.in/storage/2023/09/PG-IEE-Curriculum-Syllabus_valid-for-2020-22-batch-onwards.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "PG IEE Curriculum valid for 2020-22 batch onwards",
+                "link": "https://jadavpuruniversity.in/storage/2023/09/PG-IEE-Curriculum-Syllabus_valid-for-2020-22-batch-onwards.pdf"
+            }
+        ]
     }
 ]

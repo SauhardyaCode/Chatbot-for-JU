@@ -3,18 +3,34 @@
         "course": "Doctor of Philosophy in Science(Life science & Bio-technology)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencelife-science-bio-technology/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencelife-science-bio-technology/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "IDC/MDC in Biotechnology",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/idc-mdc-in-biotechnology/"
+        "link": "https://jadavpuruniversity.in/courses/idc-mdc-in-biotechnology/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/8.IDC_LSBT.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Biotechnology",
         "duration": "2 years",
         "intake": "20 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-biotechnology/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-biotechnology/",
+        "syllabus": [
+            {
+                "title": "Syllabus for Two Years (Four Semester) M.Sc. in Biotechnology",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2024/09/LSBT-Syllabus-Revised-2022-Sep-4_2024.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

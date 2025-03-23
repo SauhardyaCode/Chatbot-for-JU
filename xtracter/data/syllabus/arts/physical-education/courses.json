@@ -3,18 +3,41 @@
         "course": "Bachelor of Physical Education (B.P.Ed)",
         "duration": null,
         "intake": "50 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-physical-education/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-physical-education/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (Physical Education)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsphysical-education/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsphysical-education/",
+        "syllabus": [],
+        "curriculum": []
     },
     {
         "course": "Extra Departmental Courses [Dept. Physical Education]",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-physical-education/"
+        "link": "https://jadavpuruniversity.in/courses/extra-departmental-courses-dept-physical-education/",
+        "syllabus": [
+            {
+                "title": "Minor courses syllabus",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/11.Minor_Phy_Education_BA.pdf"
+            },
+            {
+                "title": "CVAC-Health and Wellness, Yoga, sports and Fitness",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/6.CVAC-Health-and-Wellness-Yoga-sports-and-Fitness.pdf"
+            },
+            {
+                "title": "CVAC-Indian Constitution (Syllabus for Science Faculty)",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/7.-CVAC-Indian-Constitution_Syllabus-for-Science-Faculty.pdf"
+            },
+            {
+                "title": "Extra Departmental Course for the Under Graduate Courses",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/ED-Phisical-Education.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

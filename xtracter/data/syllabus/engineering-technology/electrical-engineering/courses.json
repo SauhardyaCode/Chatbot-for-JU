@@ -3,30 +3,65 @@
         "course": "Bachelor of Engineering in Electrical Engineering",
         "duration": "4 years",
         "intake": "109 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-electrical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-electrical-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1333458985-1.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Bachelor of Engineering in Electrical Engineering (Evening)",
         "duration": "5 years",
         "intake": "40 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-electrical-engineering-evening/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-engineering-in-electrical-engineering-evening/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2021/08/1333458985-1.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Engineering in Control System Engineering",
         "duration": "2 years",
         "intake": "15",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-control-system-engineering-2/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-control-system-engineering-2/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/PG_CurriculumAndSyllabus_ME-ControlSysEngg_AY2024-2025.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Engineering in Electrical Engineering",
         "duration": "2 years",
         "intake": "30 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-electrical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-electrical-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/PG_CurriculumAndSyllabus_ME-EE_AY2024-2025.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Engineering in Illumination Engineering",
         "duration": "2 years",
         "intake": "20 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-illumination-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-engineering-in-illumination-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2025/02/PG_CurriculumAndSyllabus_ME-IllumEngg_AY2024-2025.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]

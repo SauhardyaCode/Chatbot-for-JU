@@ -3,18 +3,44 @@
         "course": "Bachelor of Engineering in Food Technology & Biochemical Engineering",
         "duration": "4 years",
         "intake": "40 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-technology-in-food-technology-biochemical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-technology-in-food-technology-biochemical-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/BE-FTBE-Syllabus.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/05/BE-ftbe-Curriculum.pdf"
+            }
+        ]
     },
     {
         "course": "Master of Technology (Food Technology & Biochemical Engineering)",
         "duration": "2 years",
         "intake": "12 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-technology-food-technology-biochemical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-technology-food-technology-biochemical-engineering/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/12/MTech-New-Syllabus-Final.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/12/MTech-New-Curriculum.pdf"
+            }
+        ]
     },
     {
         "course": "Ph.D. [Dept. Food Technology & Biochemical Engineering]",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/ph-d-dept-food-technology-and-biochemical-engineering/"
+        "link": "https://jadavpuruniversity.in/courses/ph-d-dept-food-technology-and-biochemical-engineering/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

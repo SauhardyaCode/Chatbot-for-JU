@@ -3,24 +3,59 @@
         "course": "Bachelor of Science in Chemistry",
         "duration": "4 years",
         "intake": "72 students",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-chemistry/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-chemistry/",
+        "syllabus": [
+            {
+                "title": "B.Sc. 4 year Chemistry (NEP 2020)",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/4.BSc-4-year-Chemistry_NEP_2020.pdf"
+            },
+            {
+                "title": "Structure of B.Sc. Chemistry (NEP 4yr UG)",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/4C.Structure-of-BSc-Chemistry_NEP_4yr-UG.pdf"
+            },
+            {
+                "title": "Four Year UG Chemistry (Major) Syllabus",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/4A.Four-Year-UG-Chemistry-Major-Syllabus.pdf"
+            },
+            {
+                "title": "Four Year UG Chemistry (Minor) Syllabus",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/4B.Four-Year-UG-Chemistry-Minor-Syllabus.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Science (Chemistry)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencechemistry/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencechemistry/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/11/phd-coursework.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Chemistry (Day)",
         "duration": "2 years",
         "intake": "45 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-chemistry/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-chemistry/",
+        "syllabus": [
+            {
+                "title": "M.Sc. Chemistry (CBCS) Syllabus – (FOUR-SEMESTER curriculum)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/1639029995-1.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Chemistry (Evening)",
         "duration": "3 years",
         "intake": "40 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-chemistry-eve/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-chemistry-eve/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

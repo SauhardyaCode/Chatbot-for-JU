@@ -3,12 +3,26 @@
         "course": "Master of Technology in Distributed & Mobile Computing",
         "duration": "2 years",
         "intake": "15 students",
-        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-distributed-mobile-computing/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-technology-in-distributed-mobile-computing/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/04/Syllabus-SMCC_2024.pdf"
+            }
+        ],
+        "curriculum": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/04/Curriculum-SMCC-2024.pdf"
+            }
+        ]
     },
     {
         "course": "Ph.D – [Mobile Computing and Communication]",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/ph-d-mobile-computing-and-communication/"
+        "link": "https://jadavpuruniversity.in/courses/ph-d-mobile-computing-and-communication/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

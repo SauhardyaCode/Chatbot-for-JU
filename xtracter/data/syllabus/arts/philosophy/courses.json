@@ -3,24 +3,51 @@
         "course": "Bachelor of Arts in Philosophy",
         "duration": "4 years",
         "intake": "50",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-philosophy/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-arts-in-philosophy/",
+        "syllabus": [
+            {
+                "title": "Four Year B.A. in Philosophy under NEP",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/7.Syllabus-Philosophy-Compiled-Final-Edited.pdf"
+            },
+            {
+                "title": "Program- B.A. In Philosophy (FA/Ph/BA)",
+                "link": "https://jadavpuruniversity.in/storage/2024/04/UG-CBCS-PHILOSOPHY-SYLLABUS.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Arts (Philosophy)",
         "duration": null,
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsphilosophy/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-artsphilosophy/",
+        "syllabus": [
+            {
+                "title": "Phd – Philosophy",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/Syllabus-PhD-philosophy.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Philosophy (Day)",
         "duration": "2",
         "intake": "65",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-philosophy-day/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-philosophy-day/",
+        "syllabus": [
+            {
+                "title": "Click Here For Detail",
+                "link": "https://jadavpuruniversity.in/storage/2024/04/PG-PHILOSOPHY-SYLLABUS.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Arts in Philosophy (Evening)",
         "duration": "2",
         "intake": "50",
-        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-philosophy-evening/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-arts-in-philosophy-evening/",
+        "syllabus": [],
+        "curriculum": []
     }
 ]

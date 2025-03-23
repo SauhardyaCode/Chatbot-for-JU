@@ -3,18 +3,55 @@
         "course": "Bachelor of Science in Geography",
         "duration": "4 years",
         "intake": "20",
-        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-geography/"
+        "link": "https://jadavpuruniversity.in/courses/bachelor-of-science-in-geography/",
+        "syllabus": [
+            {
+                "title": "Syllabus for B.Sc. Course in Geography (NEP 2020)",
+                "link": "https://jadavpuruniversity.in/storage/2024/09/1.Full-Syllabus_Geography.pdf"
+            },
+            {
+                "title": "Undergraduate Syllabus for BSc (Hons) Course in Geography Choice Based Credit System (CBCS)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/Geography-UG-syllabus-BSc-Hons-CBCS-2017-2018.pdf"
+            },
+            {
+                "title": "Undergraduate Syllabus for B.Sc. (Hons.) Course in Geography Choice Based Credit System (CBCS)",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2022/04/B.Sc_.-CBCS-Syllabus_Geography.pdf"
+            },
+            {
+                "title": "Under Graduate Syllabus for B.Sc (Hons) Course in Geography",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/Geography-UG-Syllabus-2015-2016.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Doctor of Philosophy in Science (Geography)",
         "duration": "As per University Rules",
         "intake": null,
-        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencegeography/"
+        "link": "https://jadavpuruniversity.in/courses/doctor-of-philosophy-in-sciencegeography/",
+        "syllabus": [
+            {
+                "title": "Syllabus of Course Work for Phd",
+                "link": "https://jadavpuruniversity.in/wp-content/uploads/2023/01/Geography-Syllabus-Course-Work-Phd.pdf"
+            }
+        ],
+        "curriculum": []
     },
     {
         "course": "Master of Science in Geography",
         "duration": "2 years",
         "intake": "20",
-        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-geography/"
+        "link": "https://jadavpuruniversity.in/courses/master-of-science-in-geography/",
+        "syllabus": [
+            {
+                "title": "PG Syllabus M.Sc. COURSE – 2018",
+                "link": "https://jadavpuruniversity.in/storage/2023/01/Geography-PG-syllabus.pdf"
+            },
+            {
+                "title": "M.Sc. CBCS Syllabus",
+                "link": "https://jadavpuruniversity.in/storage/2022/04/M.Sc_.-CBCS-Syllabus_Geography.pdf"
+            }
+        ],
+        "curriculum": []
     }
 ]
