@@ -2,3 +2,4 @@
 venv/
 server/test*.py
 *log.txt
+__pycache__/
